@@ -1,0 +1,7 @@
+To deploy on pypi, in a terminal in this directory:
+1. Execute `python setup.py sdist`
+2. Execute `python setup.py register`
+3. Finally `python setup.py sdist upload`
+
+Documentation this was derived from:
+http://marthall.github.io/blog/how-to-package-a-python-app/
