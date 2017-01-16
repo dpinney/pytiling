@@ -143,8 +143,10 @@ def regularTilings():
 	f1 = polyToFig(tile([Triangle(),Polygon([[0.5,sqrt(0.75)],[1.5,sqrt(0.75)],[1,0]])], [1,0], [0.5,sqrt(0.75)],iter=9))
 	f2 = polyToFig(tile([Square()], [1,0], [0,1]))
 	f3 = polyToFig(tile([Hexagon()], [sqrt(3),0], [sqrt(0.75),1.5]))
-	plt.show() # show all 3 plots.
-	saveFig(f1, 'tiling.svg')
+	# plt.show() # show all 3 plots.
+	saveFig(f1, 'Output/regTriangle.svg')
+	saveFig(f2, 'Output/regSquare.svg')
+	saveFig(f3, 'Output/regHexagon.svg')
 
 def semiRegularTilings():
 	pass #TODO: implement me.
