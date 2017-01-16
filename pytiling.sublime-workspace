@@ -75,23 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "readme.md",
-			"settings":
-			{
-				"buffer_size": 1712,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "setup.py",
-			"settings":
-			{
-				"buffer_size": 288,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -168,8 +151,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 87.0,
-		"last_filter": "git pull",
+		"height": 387.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -405,7 +388,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 357.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -430,6 +413,8 @@
 	],
 	"file_history":
 	[
+		"/Users/dpinney/Gdrive/LATERBASE/pytiling/pytiling.py",
+		"/Users/dpinney/Gdrive/LATERBASE/pytiling/readme.md",
 		"/Users/dpinney/Gdrive/LATERBASE/tiling.py/readme.md",
 		"/Users/dpinney/Gdrive/LATERBASE/tiling.py/tiling.py",
 		"/Users/dpinney/Gdrive/super 8 jamaica.txt",
@@ -555,9 +540,7 @@
 		"/Users/dpinney/Gdrive/LATERBASE/NRECA/ABC4PV/0. ABC4PV Project Plan.txt",
 		"/Users/dpinney/Gdrive/LATERBASE/NRECA/GridData SDET and DRPOWER/SDET/Contract Execution/0. Todo SDET Contract Negotiation.txt",
 		"/Users/dpinney/Gdrive/ref - GridBallast utility kickoff notes 2 Dec 2016.txt",
-		"/Users/dpinney/Gdrive/ref - GridBallast Attendees.txt",
-		"/Users/dpinney/Gdrive/Attendees.txt",
-		"/Users/dpinney/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5187BBF1-14B5-4AA6-854A-395AA174D86C/Mail Attachment.ics"
+		"/Users/dpinney/Gdrive/ref - GridBallast Attendees.txt"
 	],
 	"find":
 	{
@@ -736,65 +719,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "readme.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1712,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1695,
-								1695
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "setup.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 288,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
